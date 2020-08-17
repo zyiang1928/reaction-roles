@@ -1,0 +1,10 @@
+[
+  {
+    "messageId": "copy message id here",
+    "channelId": "copy channel id here",
+    "isUnique": true,
+    "emojiRoleMap": {
+      "emoji here": ["role id here"]
+    }
+  }
+]
