@@ -24,3 +24,7 @@ Bot Discord yang memungkinkan pengguna untuk menetapkan sendiri peran menggunaka
   },
   //... Tambahkan sebanyak mungkin aturan yang Anda inginkan.]
 ```
+
+> Jika `isUnique` adalah `true`, pengguna dapat memilih hanya satu kelompok peran. Jika `false`, pengguna dapat memilih grup peran sebanyak yang mereka inginkan.
+
+
