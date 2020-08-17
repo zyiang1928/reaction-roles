@@ -1,7 +1,7 @@
 {
   "name": "reaction-roles-tutorial",
   "version": "0.0.1",
-  "description": "Untuk belajar coding dari awal sampai akhir",
+  "description": "Bot Discord yang memungkinkan pengguna untuk menetapkan sendiri peran menggunakan reaksi",
   "main": "index.js",
   "author": "zуιαиg 것ダ",
   "engines": {
