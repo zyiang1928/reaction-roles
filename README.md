@@ -27,6 +27,8 @@ Bot Discord yang memungkinkan pengguna untuk menetapkan sendiri peran menggunaka
 
 > Jika `isUnique` adalah `true`, pengguna dapat memilih hanya satu kelompok peran. Jika `false`, pengguna dapat memilih grup peran sebanyak yang mereka inginkan.
 
-
 > `EMOJI_N` bisa menjadi emoji unicode atau id emoji untuk emoji khusus (custom).
 
+> Emoji dapat memetakan ke berbagai peran seperti yang terlihat di `EMOJI_3` di atas.
+
+**Bagaimana? Cukup mudah bukan?**
