@@ -31,4 +31,4 @@ Bot Discord yang memungkinkan pengguna untuk menetapkan sendiri peran menggunaka
 
 > Emoji dapat memetakan ke berbagai peran seperti yang terlihat di `EMOJI_3` di atas.
 
-**Bagaimana? Cukup mudah bukan?**
+**Bagaimana? Cukup mudah bukan? Jika anda perlu bantuan silahkan gabung ke server ini [Klik Disini!](https://discord.gg/czHfcuP)**
