@@ -11,14 +11,14 @@ module.exports = {
     let embed = new MessageEmbed()
       .setColor(message.guild.me.displayHexColor)
       .setThumbnail(message.client.user.displayAvatarURL())
-      .setAuthor("Help Commands", message.client.displayAvatarURL())
+      .setAuthor("Help Commands", message.client.user.displayAvatarURL())
       .setFooter(message.client.user.username)
       .setTimestamp();
 
     commands.forEach((cmd) => {
       embed.addField(
         `${message.client.prefix}${cmd.name} (${cmd.aliases ? cmd.aliases : "None Aliases"})`,
-        `${command.description}`
+        `${cmd.description}`
       );
       return message.channel.send(embed).catch(console.error);
     });
