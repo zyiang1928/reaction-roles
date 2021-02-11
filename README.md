@@ -1,4 +1,4 @@
-# reaction-role-tutorial
+# reaction-roles
 Bot Discord yang memungkinkan pengguna untuk menetapkan sendiri peran menggunakan reaksi.
 
 # Mempersiapkan
